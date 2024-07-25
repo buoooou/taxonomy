@@ -39,7 +39,7 @@ export const metadata = {
   ],
   authors: [
     {
-      name: "shadcn",
+      name: "buou",
       url: "https://shadcn.com",
     },
   ],
